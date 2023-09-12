@@ -25,8 +25,8 @@ STEP 8: Make prediction with test data and with an external data
 ```
 ## PROGRAM
 ```
-Developed By: R Hemapriya
-Reg No: 212221230036.
+Developed By: KATHIRVEL.A
+Reg No: 212221230047
 ```
 ```
 import numpy as np
